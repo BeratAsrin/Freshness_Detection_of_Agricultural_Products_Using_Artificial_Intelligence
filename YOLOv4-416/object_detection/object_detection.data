@@ -1,0 +1,5 @@
+classes = 4
+train = object_detection_data/training.txt
+valid = object_detection_data/testing.txt
+names = object_detection_data/object_detection.names
+backup = backup/
