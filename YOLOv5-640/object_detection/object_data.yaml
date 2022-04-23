@@ -1,0 +1,8 @@
+train: /home/berat/Desktop/yolov5/object_detection_training/train
+val:  /home/berat/Desktop/yolov5/object_detection_training/valid
+
+# number of classes
+nc: 4
+
+# class names
+names: ["strawberry","apple","tomato","lemon"]

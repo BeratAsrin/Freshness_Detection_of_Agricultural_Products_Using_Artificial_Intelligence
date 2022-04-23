@@ -1,0 +1,8 @@
+train: /home/isuzu/Desktop/yolov5/tomato_training/train
+val:  /home/isuzu/Desktop/yolov5/tomato_training/valid
+
+# number of classes
+nc: 5
+
+# class names
+names: ["Unripe", "SlightlyRipe", "Ripe", "ClosetoRotting", "Rotten"]
